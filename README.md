@@ -30,15 +30,6 @@ O projeto foi desenvolvido seguindo as etapas clássicas de um pipeline de Data 
 
 - Git & GitHub — versionamento e publicação do projeto
 
-📂 **Estrutura do Projeto**
-```│
-📁 telecomx-churn-analysis
-
-├── 📄 TelecomX_Data.json        # Dataset original
-├── 📄 notebook.ipynb            # Notebook com todo o pipeline de análise
-├── 📄 README.md                 # Documentação do projeto
-└── 📄 relatório_final.md/pdf    # Relatório final (opcional)
-```
 🔄 **Etapas do Projeto**
 
 1️⃣ Extração
