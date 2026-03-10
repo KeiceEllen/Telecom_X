@@ -100,10 +100,3 @@ Os resultados deste projeto podem ser utilizados como base para estratégias de 
 
 - Avaliação de métricas de classificação.
 
-👤 Autor
-
-Matheus Cunha Pereira
-Graduado em Análise e Desenvolvimento de Sistemas
-Interesse em Data Science, Dados e Tecnologia
-
-📌 Projeto desenvolvido para fins de estudo e portfólio.
